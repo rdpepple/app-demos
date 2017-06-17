@@ -1,0 +1,29 @@
+{
+  "name": "app-demos",
+  "version": "1.0.0",
+  "description": "Application video demos app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdpepple/app-demos.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Robert Pepple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdpepple/app-demos/issues"
+  },
+  "homepage": "https://github.com/rdpepple/app-demos#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  },
+    "license": "UNLICENSED"
+}
